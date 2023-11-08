@@ -1,0 +1,10 @@
+    <link rel="shortcut icon" type="image/png" href="{{ asset('assets/image/logo/logo.png') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/slicknav.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/magnific-popup.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/custom.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/responsive.css') }}" />
