@@ -7,7 +7,9 @@
         "watch-poll": "mix watch -- --watch-options-poll=1000",
         "hot": "mix watch --hot",
         "prod": "npm run production",
-        "production": "mix --production"
+        "production": "mix --production",
+        "postinstall": "npm run prod",
+        "prod": "node_modules/.bin/webpack -p --config ./webpack.prod.config.js --env.NODE_ENV=production"
     },
     "devDependencies": {
         "@popperjs/core": "^2.11.6",
