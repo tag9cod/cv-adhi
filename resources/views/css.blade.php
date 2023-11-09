@@ -1,4 +1,3 @@
-    <link rel="shortcut icon" type="image/png" href="{{ asset('assets/image/logo/logo.png') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.min.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.min.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.min.css') }}" />
